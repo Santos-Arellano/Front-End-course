@@ -13,6 +13,8 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor]
 
 ## Overview
 
+assets/images/screenshot.jpg
+
 ### The challenge
 
 Users should be able to:
